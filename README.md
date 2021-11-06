@@ -29,7 +29,8 @@ some repositories forked from other repositories on github. special builds for p
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sopyanaganjar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sopyanaganjar" height="15" width="20" /></a>
-<a href="https://fb.com/crack1933" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sopyanaganjar" height="15" width="20" /></a>
+<a href="https://t.me/unkl933" target="blank"><img align="center" src="https://raw.githubusercontent.com/Barina/Dark-Telegram/master/Resources/logo.svg" alt="unkl933" height="15" width="20" /></a>
+<a href="https://fb.com/crack1933" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="crack1933" height="15" width="20" /></a>
 <a href="https://www.instagram.com/sopyanaganjar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sopyanaganjar" height="15" width="20" /></a>
 </p>
 
