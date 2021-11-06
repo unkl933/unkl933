@@ -10,3 +10,5 @@
 <!--END_SECTION:activity-->
 
 ---
+
+[![Spotify](https://spotify-playing-virid.vercel.app/api/spotify)](https://open.spotify.com/user/clashteam.id)
