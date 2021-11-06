@@ -1,13 +1,4 @@
-name: Github -Activity -Readme
-
-on:
-  schedule:
-    - cron: '0 * * * *'
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latestname: Update README
+name: Update README
 
 on:
   schedule:
@@ -24,13 +15,3 @@ jobs:
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-    
-    steps:
-      - uses: actions/checkout@v2
-      - uses: unkl933/unkl933@master
-      - uses: unkl933/kernel_xiaomi_msm8996@lineage-18.1
-      - uses: unkl933/msm-4.4@eleven
-      
-      
-        env:
-          GITHUB_TOKEN: ${{ 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 }}
