@@ -11,6 +11,10 @@ jobs:
     
     steps:
       - uses: actions/checkout@v2
-      - uses: unkl933/github-activity-readme@master
+      - uses: unkl933/unkl933@master
+      - uses: unkl933/kernel_xiaomi_msm8996@lineage-18.1
+      - uses: unkl933/msm-4.4@eleven
+      
+      
         env:
           GITHUB_TOKEN: ${{ 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 }}
