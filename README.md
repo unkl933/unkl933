@@ -19,6 +19,9 @@ some repositories forked from other repositories on github. special builds for p
 
 <!--START_SECTION:activity-->
 
+
+
+
 <!--END_SECTION:activity-->
 
 
@@ -33,6 +36,8 @@ some repositories forked from other repositories on github. special builds for p
 <a href="https://fb.com/crack1933" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="crack1933" height="15" width="20" /></a>
 <a href="https://www.instagram.com/sopyanaganjar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sopyanaganjar" height="15" width="20" /></a>
 </p>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=unkl933.unkl933)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="20" height="20"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="20" height="20"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="20" height=20"/> </a> </p>
