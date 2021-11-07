@@ -11,8 +11,9 @@ jobs:
     
     steps:
       - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@v0.3.6
+      - uses: unkl933/github-activity-readme@main
         env:
-          GITHUB_TOKEN: ${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}
-  
-
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: 'Specify a custom commit message'
+          MAX_LINES: 10
